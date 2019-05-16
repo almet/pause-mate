@@ -62,3 +62,4 @@ Retours :
 - Creuser sur les techniques de caramel
 - Matos : trouver un réfractomètre ?
 - Qu'est-ce que l'arôme caféine ? Peut-être que l'amertume est liée à l’arôme de caféine ?
+- Caractère excitant de la boisson. Voir comment avoir plus de caféine, et/ou pouvoir le mesurer. Ajouter du guarana ? du thé ?
