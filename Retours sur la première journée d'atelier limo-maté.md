@@ -8,7 +8,7 @@ On a testé deux marques de maté différentes : Kraus, assez vert et Anna Park,
 
 ## Recette de Youpi (pour 20L)
 
-- 650ml de caramel: 600g de sucre, 2c-a-sucre de jus de citron (pour que ça reste un sirop et que ça ne se re-solidifie pas), un peu d'eau pour recouvrir, on fait caraméliser à feu assez doux augmenté au fur et à mesure. 
+- 650ml de caramel [en suivant une recette en ligne](https://cuisine.notrefamille.com/recettes-cuisine/sirop-de-caramel-_52879-r.html) : 600g de sucre, 2c-a-sucre de jus de citron (pour que ça reste un sirop et que ça ne se re-solidifie pas), un peu d'eau pour recouvrir, on fait caraméliser à feu assez doux augmenté au fur et à mesure. 
 - 600ml de sucre blanc raffiné
 - 22g d'acide citrique (on est parti de 14g pour aller jusqu'à 22g, on avait imaginé jusqu'à 30g/L). On a pris de l'acide de chez Biocoop.
 - 300g de Maté Anna Park. Infusé à 80°C pendant 5mn, mais on a repassé autant pendant 2mn un peu pus tard parce qu'on trouvait que ça ne donnait pas assez de goût. En petit, 5mn étaient suffisantes, mais en grand non. A noter qu'on a infusé en deux fois faute de sacs filtrants suffisamment grands, et à cause d'une erreur de passage à l'échelle.
