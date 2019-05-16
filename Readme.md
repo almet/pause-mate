@@ -11,7 +11,7 @@ L'idée est de trouver une recette de type « Club Maté » et d'expérimenter a
 
 - 4 Avril : Discussions (idée de noms: Lundi Maté, Ours Maté), process (type limonade avec infusion de maté), coût
 - 5 Mai, [retour sur les premières expérimentations](2019-05-05-experimentation-et-retours.md)
-- 16 Mai, [premier atelier de fabrication en fûts de 20L](2019-05-16-Retours sur la première journée d'atelier limo-maté)
+- 16 Mai, [premier atelier de fabrication en fûts de 20L](2019-05-16-Retours sur la première journée d'atelier limo-maté.md)
 
 ## Questions à résoudre
 
