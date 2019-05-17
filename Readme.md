@@ -25,7 +25,7 @@ L'idée est de trouver une recette de type « Club Maté » et d'expérimenter a
 
 ## Divers
 
-- Voir [l'article sur nos ressources diverses]() avec des recettes glannées ici et là.
+- Voir [l'article sur nos ressources diverses](ressources.md) avec des recettes glannées ici et là.
 - Au CCC y'avait un truc maté, mais en fait c'est des cérémonie autour du maté : https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Drinking_Circle
 
 - pour réutiliser des bouteilles en bretagne : http://distro.bzh/
