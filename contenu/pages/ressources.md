@@ -1,4 +1,4 @@
-Title: Ressources diverses et recettes
+Title: Ressources et recettes
 
 ## Ingrédients du club maté
 
