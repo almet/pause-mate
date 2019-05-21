@@ -1,4 +1,5 @@
-# Retour sur les premières expérimentations
+title: Premières expérimentations
+date: 2019-05-05
 
 Alors, petit retour sur ces premiers tests (recette de instructables):
 

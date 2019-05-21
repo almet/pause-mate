@@ -1,4 +1,6 @@
-# Retours sur la première journée d'atelier limo-maté
+Title: Première journée d'atelier limo-maté
+Date: 2019-05-16
+
 
 *On à commencé vers 9h30; On était à peu près 5 personnes (+Fred en goûteur supplémentaire). Fin (et restitution) vers 17h*
 
