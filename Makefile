@@ -46,7 +46,8 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github: publish
+	echo "mate.notmyidea.org" > $(OUTPUTDIR)/CNAME
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push github $(GITHUB_PAGES_BRANCH)
+	git push github $(GITHUB_PAGES_BRANCH) -f
 
 .PHONY: html clean regenerate serve devserver stopserver publish github
