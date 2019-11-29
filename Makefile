@@ -42,12 +42,12 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	echo "mate.notmyidea.org" > $(OUTPUTDIR)/CNAME
 
 github: publish
-	echo "mate.notmyidea.org" > $(OUTPUTDIR)/CNAME
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push github $(GITHUB_PAGES_BRANCH) -f
+	ghp-import -n $(OUTPUTDIR)
+	git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
 .PHONY: html clean regenerate serve devserver stopserver publish github
