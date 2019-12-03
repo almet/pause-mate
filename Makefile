@@ -53,6 +53,6 @@ publish: install
 
 github: publish
 	ghp-import -n $(OUTPUTDIR)
-	git push -fq https://${GITHUB_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
+	git push -fq https://${GITHUB_TOKEN}@github.com/almet/pause-mate.git gh-pages > /dev/null
 
 .PHONY: html clean regenerate serve devserver stopserver publish github
