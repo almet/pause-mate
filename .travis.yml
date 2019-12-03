@@ -7,10 +7,11 @@ install:
 script:
 - make github
 addons:
-    apt:
-        packages:
-            - language-pack-fr
+  apt:
+    packages:
+    - language-pack-fr
 env:
   global:
-    - LANG=fr_FR.UTF-8
-    - LC_ALL=fr_FR.UTF-8
+  - LANG=fr_FR.UTF-8
+  - LC_ALL=fr_FR.UTF-8
+  - secure: el93WKPcr7FM9GJN5BVTP7ZVBHEUBs6FPBQXjq37Y1DGencYBC7RIoHDixo3jOh2wGCiyTA845LvjCpsUe3ai/ioL9C1zx4WOGsbN6ax+r7a8kPxZkXxbtCrHr2arn9eIVEpuFYpT58JQEAwPOmr84jtabTwPM6kcOG7TJj6RMNuQOS7vk8tTgc6oIuGmDbmBABbtUiCooFyD1UeJOHrku8FTEHh2hcC2v0dVmXynuwwKJSRdSAXnOg4KSZEI4xu6WANidqAffHlkVsUhhE/lzt0N6MaYUH6wt76IbAv8COH8s/RI7bb29NBRJkqL7A1XPUiRNNJqV9ZoVNOvncv9rfe1bM6qvrpOwtD72gMB3sBLg+40b1slpPduzwHjYD2OuWsT2Wmf5YpKJiRoGQdao9U5nCAK8kwPnPZ9W4zJQ9uDVmIOQ0tKRDl98I0VjlQYDiiDvjxX6NyKRf8rG0hQgrzG20Ix4Q0b3LLk92vUMm1jafpPneUastDPXCmfnHl/1KH6fPnr6eLjgjN1mHne/hPYxVIk3BvflX1Ur8kDD/0fwUrZbnXsCSh+loy5itw1MmBXs6sYIGehard7OS/LeiVWpBt5lsQGxAUsaIxcKib5/pOHKYirrFMb986k33vLewnvBByLaHhXBllC/V5XMyTg8RlXsg8x2p/ioDd190=
