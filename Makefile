@@ -24,6 +24,11 @@ endif
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+install: $(INSTALL_STAMP)
+$(INSTALL_STAMP): $(PYTHON) requirements.txt
+	$(VENV)/bin/pip install -r requirements.txt
+	touch $(INSTALL_STAMP)
+
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
