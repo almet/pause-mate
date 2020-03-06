@@ -9,7 +9,7 @@ On a en fait fait deux versions différentes, on avait pas prévu assez de caram
 
 ## Recette pour 65L
 
-                | Planifié | Version black | Version white
+Ingrédients     | Planifié | Version black | Version white
 --------------- | -------- | ------------- | -------------
 Eau             | 65L      | -             | -
 Sucre           | 1495g    | 1500g         | 1710g
